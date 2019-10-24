@@ -1,12 +1,19 @@
 # minesweeper
-Minesweeper made in java
+Minesweeper: made in java
 
-Left click to reveal
+# How to play:
+(Make sure you have java installed)
+1. Download everything
+2. Open up command line and type the following
+```
+javac Game.java
+java Minesweeper.java
+```
+3. Enjoy
 
-Right click to flag
+# Buttons you need to know
+- Left click to reveal a cell
+- Right click to flag a cell
+- Middle click to reveal surrounding of a cell
 
-Middle click to reveal surrounding
-
-Enjoy!
-
-Originally made for a high school project
+This game follows all rules of Microsoft's minesweeper
