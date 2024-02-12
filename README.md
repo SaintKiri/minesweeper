@@ -17,3 +17,9 @@ java Minesweeper.java
 - Middle click to reveal surrounding of a cell
 
 This game follows all rules of Microsoft's minesweeper
+
+## TODO:
+1. Package everything into `.jar`
+2. Apple things:
+    1. Clearance of the board is needed
+    2. Middle click implementation on the trackpad
